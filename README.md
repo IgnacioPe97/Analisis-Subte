@@ -8,7 +8,8 @@ Este proyecto analiza el uso del subte en CABA mediante visualizaciones interact
 - Visualización de KPIs por línea, estación y frecuencia
 
 ## 📄 Reporte
-[Ver PDF del informe](./proyecto-subte.pdf)
+[Ver PDF del informe]((https://github.com/IgnacioPe97/Analisis-Subte/raw/main/Analisis%20del%20Subte.pdf)
+)
 
 ## 📹 Video explicativo
 [Ver video del proyecto](https://youtu.be/71XAIvIIYD8)
